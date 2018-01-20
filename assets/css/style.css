@@ -160,7 +160,7 @@ body, html {
     transform: translateY(-50%) skew(-5deg, 0deg);
     text-align: center;
 
-    font-size: 50px;
+    font-size: 75px;
     font-family: 'URW Chancery L', cursive;
     color: #ff3f47;
 }
