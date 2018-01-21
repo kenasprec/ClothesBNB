@@ -144,8 +144,6 @@ img {
     top: 80px;
     height: 66%;
     width: 100%;
-
-    border-bottom: 1px solid black;
 }
 
 #splash-content {
@@ -236,7 +234,7 @@ img {
 }
 
 .carousel-wrapper {
-    height: 350px;
+    height: 420px;
     width: 100%;
 }
 
@@ -250,6 +248,7 @@ img {
 }
 
 .carousel-row {
+    margin-top: 20px;
     height: 300px;
     width: 100%;
     display: flex;
