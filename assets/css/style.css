@@ -258,3 +258,22 @@ img {
     flex-grow: 1;
     padding: 15px;
 }
+
+input:focus {
+    outline: 0;
+}
+
+#after-search-container {
+    position: absolute;
+    top: 80px;
+    height: 1000px;
+    width: 90%;
+    left: 50%;
+    transform: translateX(-50%);
+}
+
+#after-carousel-wrapper {
+    margin-top: 20px;
+    height: 1050px;
+    width: 100%;
+}
